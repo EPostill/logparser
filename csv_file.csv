@@ -1,0 +1,7 @@
+error,number
+The ticket was modified while updating, 5
+Tried to add information to closed ticket, 1
+Connection to DB failed, 5
+Timeout while retrieving information, 5
+Ticket doesn't exist, 2
+Permission denied while closing ticket, 1
